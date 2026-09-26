@@ -11,7 +11,7 @@
 
 | 世界観 | リンク | ステージ構成 |
 |---|---|---|
-| 🏮 異世界転生屋台 〜スキル【複式簿記】で成り上がる〜 | [開く](https://claude.ai/artifact/6QgLeQBGRasxz2x6zGwFCP) | 全5ステージ×10問（計50問） |
+| 🏮 異世界転生屋台 〜スキル【複式簿記】で成り上がる〜 | [開く](https://chiaki4760.github.io/BokiGameApp1/) | 全5ステージ×10問（計50問） |
 | 👾 DARKWEB PROTOCOL // CYBER BOOKKEEPING | [開く](https://claude.ai/artifact/S2uBibkyHVtC7f8qVeRYkm) | 全5レベル×10問（計50問） |
 
 > ⚠️ リンクを開くには、**Claude（無料プランでOK）へのログイン**が必要です。
